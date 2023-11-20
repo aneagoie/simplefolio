@@ -1,54 +1,57 @@
-# Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobiwave/simplefolio?color=blue)](https://github.com/cobiwave/simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobiwave/simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobiwave/simplefolio)
+# Your Name's GitHub Portfolio
 
-## A minimal portfolio template for Developers!
+## 👋 Hello World!
 
-<h2 align="center">
-  <img src="https://github.com/cobiwave/gatsby-simplefolio/blob/master/examples/example.gif" alt="Simplefolio" width="600px" />
-  <br>
-</h2>
+Welcome to my GitHub portfolio! I'm [Your Name], a passionate [Your Role/Title] with a love for [Your Area of Expertise]. Here, you'll find a collection of projects that reflect my skills, interests, and journey in the world of technology.
 
+## 🚀 Projects
 
-## Features
+### Project 1: [Project Name 1]
 
-⚡️ Modern UI Design + Reveal Animations\
-⚡️ One Page Layout\
-⚡️ Styled with Bootstrap v4.3 + Custom SCSS\
-⚡️ Fully Responsive\
-⚡️ Valid HTML5 & CSS3\
-⚡️ Optimized with Parcel\
-⚡️ Well organized documentation
+[Add a brief description of the project, its purpose, and the technologies used. Include any key features or challenges you faced.]
 
-To view the demo: **[click here](https://the-simplefolio.netlify.app/)**
+[Add a link to the project repository]
 
----
+### Project 2: [Project Name 2]
 
-## Why do you need a portfolio? ☝️
+[Add a brief description of the project, its purpose, and the technologies used. Include any key features or challenges you faced.]
 
-- Professional way to showcase your work
-- Increases your visibility and online presence
-- Shows you’re more than just a resume
+[Add a link to the project repository]
 
-## Getting Started 🚀
+### Project 3: [Project Name 3]
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+[Add a brief description of the project, its purpose, and the technologies used. Include any key features or challenges you faced.]
 
-### Prerequisites 📋
+[Add a link to the project repository]
 
-You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [NPM](http://npmjs.com)) installed on your computer.
+## 🛠️ Skills
 
-```
-node@v16.4.2 or higher
-npm@7.18.1 or higher
-git@2.30.1 or higher
-```
+- **Programming Languages:** [List programming languages you are proficient in]
+- **Web Development:** [List any web development technologies you are familiar with]
+- **Database Management:** [List databases you have experience with]
+- **Other Skills:** [Any additional skills relevant to your field]
 
-Also, you can use [Yarn](https://yarnpkg.com/) instead of NPM ☝️
+## 📚 Education
 
-```
-yarn@v1.22.10 or higher
-```
+- **[Degree Earned], [University Name], [Year of Graduation]**
 
----
+## 📫 Contact
+
+Feel free to reach out to me for collaboration or any inquiries:
+
+- Email: [Your Email]
+- LinkedIn: [Your LinkedIn Profile]
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/your-username/)
+- [Twitter](https://twitter.com/your-username/)
+- [Personal Website/Blog](https://www.yourwebsite.com/)
+
+## 🤝 Let's Collaborate!
+
+I'm always open to collaboration and new opportunities. If you have a project or idea you'd like to discuss, please don't hesitate to reach out. Let's build something amazing together!
+
 
 ## How To Use 🔧
 
@@ -79,16 +82,6 @@ $ npm install
 
 # Start the development server
 $ npm start
-```
-
-Using Yarn: Be aware of that you'll need to delete the `package-lock.json` file before executing the below commands.
-
-```bash
-# Install dependencies
-$ yarn
-
-# Start the development server
-$ yarn start
 ```
 
 **NOTE**:
@@ -325,17 +318,6 @@ $secondary-color: #00cdac;
 
 ---
 
-## Deployment 📦
-
-Once you finish your setup. You need to put your website online!
-
-I highly recommend to use [Netlify](https://netlify.com) because it is super easy.
-
-## Others versions 👥
-
-[Gatsby Simplefolio](https://github.com/cobiwave/gatsby-simplefolio) by [Jacobo Martinez](https://github.com/cobiwave)\
-[Ember.js Simplefolio](https://github.com/sernadesigns/simplefolio-ember) by [Michael Serna](https://github.com/sernadesigns)
-
 ## Technologies used 🛠️
 
 - [Parcel](https://parceljs.org/) - Bundler
@@ -344,18 +326,6 @@ I highly recommend to use [Netlify](https://netlify.com) because it is super eas
 - [ScrollReveal.js](https://scrollrevealjs.org/) - JavaScript library
 - [Tilt.js](https://gijsroge.github.io/tilt.js/) - JavaScript tiny parallax library
 
-## Authors
-
-- **Jacobo Martinez** - [https://github.com/cobiwave](https://github.com/cobiwave)
-
-## Status
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3a029bfd-575c-41e5-8249-c864d482c2e5/deploy-status)](https://app.netlify.com/sites/the-simplefolio/deploys)
-
 ## License 📄
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments 🎁
-
-I was motivated to create this project because I wanted to contribute on something useful for the dev community, thanks to [ZTM Community](https://github.com/zero-to-mastery) and [Andrei](https://github.com/aneagoie)
